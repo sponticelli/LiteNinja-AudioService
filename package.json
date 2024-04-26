@@ -1,0 +1,24 @@
+{
+  "name": "com.liteninja.audioservice",
+  "version": "1.0.0",
+  "displayName": "LiteNinja Audio Service",
+  "description": "Music and Sound services for Unity3D",
+  "unity": "2022.1",
+  "documentationUrl": "https://github.com/sponticelli/LiteNinja-AudioService/blob/main/README.md",
+  "changelogUrl": "https://github.com/sponticelli/LiteNinja-AudioService/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/sponticelli/LiteNinja-AudioService/blob/main/LICENSE.md",
+  "dependencies": {
+  },
+  "keywords": [
+    "Audio",
+    "Music Service",
+    "Sound Service",
+    "Unity3D",
+    "Clean Code"
+  ],
+  "author": {
+    "name": "Sandro Ponticelli",
+    "email": "sandro.ponticelli@gmail.com",
+    "url": "https://github.com/sponticelli"
+  }
+}
